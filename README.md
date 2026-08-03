@@ -9,3 +9,7 @@
 - **Records**: Historical sales records 
 - **Domain**: Retail / Bussiness Analytics
 - **Purpose**: Analyze sales performance, profitability and customer behavior
+
+
+### DATABASE 
+- **Technology**: sqlite3

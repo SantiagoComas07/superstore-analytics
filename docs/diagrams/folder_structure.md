@@ -15,6 +15,7 @@ flowchart TD
     A --> C[notebooks]
     C --> C1[00_questions.ipynb]
     C --> C2[01_sample.ipynb]
+    C --> C3[02_explore.ipynb]
 
     A --> D[scripts]
 
