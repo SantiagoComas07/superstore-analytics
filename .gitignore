@@ -1,0 +1,8 @@
+*.csv
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+db/validation.py
